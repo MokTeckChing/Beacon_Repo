@@ -1,0 +1,6 @@
+Instructions:
+
+1) copy folder onto desktop
+3) Open Anaconda -> Jupyter Notebook and navigate to folder
+4) Look for the "change me" section and make changes accordingly
+5) run the next box
